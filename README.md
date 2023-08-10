@@ -21,8 +21,4 @@ APIs and services.
 I am based in Cyprus (EU), and usually active after 11 am UTC+0. I prefer product companies,
 media art studios, and art institutes.
 
-To contact me, write to me at <hey@zmoki.xyz> or in a convenient
-messenger <https://links.zmoki.xyz>
-
-See my full [resume](https://resume.zmoki.xyz)
-and [LinkedIn profile](https://www.linkedin.com/in/zaremakhalilova)
+See my full resume on <https://zmoki.xyz/resume>
