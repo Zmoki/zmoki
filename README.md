@@ -1,3 +1,5 @@
 # Hi there 👋
 
-I'm a Software Engineer, Manager, Speaker, and Event Organizer with 20 years of experience in the software industry.
+I'm a software engineer, artist, speaker, and event organizer with 20 years of experience in the software industry.
+
+[My Digital Garden](https://zmoki.xyz/)
